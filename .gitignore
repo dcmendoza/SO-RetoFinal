@@ -1,0 +1,29 @@
+# ⚠️ No subir credenciales sensibles
+client_secrets.json
+credentials.json
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*.bak
+*.tar
+*.aes
+*.part*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
